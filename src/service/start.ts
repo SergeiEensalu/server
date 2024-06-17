@@ -31,7 +31,7 @@ export const startService = async (ctx: Context) => {
           {
             text: 'Open Website',
             web_app: {
-              url: `https://b526-82-131-110-53.ngrok-free.app/login` // TODO: REPLACE THIS!
+              url: `${YOUR_URL}/login` // TODO: REPLACE 'YOUR_URL' WITH YOU LINK 1.
             }
           }
         ]

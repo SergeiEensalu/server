@@ -19,7 +19,7 @@ router.post('/', async (req: Request, res: Response) => {
     }
 
     const response = await login(value);
-    res.status(response.status).json({message: response.message, user: response.user});
+    res.status(response.status).json({message: response.message});
 
   } catch (error) {
     console.error('Error logging in:', error);
