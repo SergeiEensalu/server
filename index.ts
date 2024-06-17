@@ -4,7 +4,7 @@ import {hello} from "./src/handler/hello";
 import {start} from "./src/handler/start";
 import './src/server';
 
-const TOKEN = '' // TODO: REPLACE THIS!
+const TOKEN = '6722392005:AAGGm6LYb_R44BSf5JdFQ-OCTprIsoBfgSw'
 
 const bot = new Telegraf(TOKEN)
 
