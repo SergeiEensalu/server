@@ -1,0 +1,9 @@
+version: "2"
+authtoken: TOKEN
+tunnels:
+  web_app:
+    addr: 5173
+    proto: http
+  server:
+    addr: 3000
+    proto: http
