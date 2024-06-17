@@ -1,5 +1,5 @@
 version: "2"
-authtoken: TOKEN
+authtoken: '2i0NquDxESuhJbMxrkBdtcN8C7o_357mnk9NN56GNoq86hzg6'
 tunnels:
   web_app:
     addr: 5173
