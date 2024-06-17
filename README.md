@@ -1,1 +1,1 @@
-# server
+# See readme in WEB project: https://github.com/SergeiEensalu/web/blob/main/README.md
