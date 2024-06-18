@@ -31,7 +31,7 @@ export const startService = async (ctx: Context) => {
           {
             text: 'Open Website',
             web_app: {
-              url: `https://whale-web.netlify.app/login` // TODO: REPLACE 'YOUR_URL' WITH YOU LINK 1.
+              url: `https://web-olive-omega.vercel.app/login` // TODO: REPLACE 'YOUR_URL' WITH YOU LINK 1.
             }
           }
         ]
